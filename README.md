@@ -1,1 +1,2 @@
-# spark_source_code
+#目前项目做海量日志的分析处理，用到spark，这里主要分析spark源码，spark源码注释再代码中
+spark的模块分析再Issues中，由于GitHub支持性不友好，有兴趣的朋友看上传的word文档
